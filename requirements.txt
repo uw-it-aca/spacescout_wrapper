@@ -1,0 +1,3 @@
+-e git+https://github.com/vegitron/spacescout_server_wrapper.git#egg=SpaceScoutServer
+-e git+https://github.com/vegitron/spacescout_admin_wrapper.git#egg=SpaceScoutAdmin
+-e git+https://github.com/vegitron/spacescout_web_wrapper.git#egg=SpaceScoutWeb
