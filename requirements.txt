@@ -1,4 +1,2 @@
 -e git+https://github.com/uw-it-aca/spotseeker_server.git@qa#egg=SpaceScoutServer
--e git+https://github.com/uw-it-aca/spacescout_admin.git@qa#egg=SpaceScoutAdmin
--e git+https://github.com/uw-it-aca/spacescout_web.git@qa#egg=SpaceScoutWeb
 -e git+https://github.com/uw-it-aca/spacescout_labstats.git@qa#egg=SpaceScoutLabstats
